@@ -17,4 +17,4 @@ Este projeto foi desenvolvido como parte de um desafio da Alura no curso de Pyth
 
 ## 📄 Relatório Final
 
-As conclusões e recomendações estão documentadas no arquivo [`relatorioFinal.md`](relatorioFinal.md), com base nas análises realizadas ao longo do projeto.
+As conclusões e recomendações estão documentadas no notebook, com base nas análises realizadas ao longo do projeto.
